@@ -16,4 +16,4 @@ A simple and secure password generator built using Java. It generates strong, ra
 ## 🛠️ Installation & Usage
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/password-generator.git
+   git clone https://github.com/nischaysh/password-generator.git
